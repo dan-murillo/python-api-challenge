@@ -1,6 +1,6 @@
 # Analysing the weather variables that latitude can predict and finding my ideal holiday cities (*Challenge 6*)
 
-This repository contains a mini-project in which a 541 cities dataset was generated. The data was used to analyse the relationship between the equator and the weather as well as to determine whether latitude could predict four different weather variables.
+This repository contains a mini-project in which a 541 cities dataset was generated. The data were used to analyse the relationship between the equator and the weather as well as to determine whether latitude could predict four different weather variables.
 
 ## Author
 
@@ -56,7 +56,7 @@ It contains the CSV file I generated and the images of the four scatter plots I 
 
 ## Data Reference
 
-All the data was generated during the mini-project, hence, there are no data references other than the libraries and APIs used in the code: CitiPy, the OpenWeatherMap API, and the Geoapify API.
+All the data were generated during the mini-project, hence, there are no data references other than the libraries and APIs used in the code: CitiPy, the OpenWeatherMap API, and the Geoapify API.
 
 ```#Thank you for reading me!```
 
@@ -68,24 +68,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
